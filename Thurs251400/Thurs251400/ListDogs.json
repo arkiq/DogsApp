@@ -1,0 +1,26 @@
+﻿[
+  {
+    "Breedname": "Newfoundland",
+    "Origin": "Newfoundland",
+    "Size": "Giant",
+    "Grooming": "Demanding",
+    "Exercise": "Demanding",
+    "Temperament": "Placid"
+  },
+  {
+    "Breedname": "Jack Russell Terrier",
+    "Origin": "England",
+    "Size": "Small",
+    "Grooming": "Easy",
+    "Exercise": "Moderate",
+    "Temperament": "Loyal"
+  },
+  {
+    "Breedname": "Japanese Shiba Inu",
+    "Origin": "Japan",
+    "Size": "Medium",
+    "Grooming": "Moderate",
+    "Exercise": "Moderate",
+    "Temperament": "Aloof"
+  }
+]
